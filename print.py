@@ -1,0 +1,6 @@
+print("Welcome to the world of Programming!")
+print(3)
+print("Hello\nworld")
+print("Hello",2)
+print("Welcome to", end =" ")
+print("Codingal")
